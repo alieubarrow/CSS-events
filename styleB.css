@@ -1,0 +1,61 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: #FF8C00; 
+  }
+  
+  h1 {
+    color: #333;
+    font-family: Georgia, serif;
+  }
+  
+  table {
+    border-collapse: collapse;
+  }
+  
+  tr th, tr td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    color: #333;
+  }
+  
+  button {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  a:link {
+    color: #007bff;
+  }
+  
+  a:visited {
+    color: #ff0000; 
+  }
+  
+  #o {
+    font-size: 100px;
+    color: orange;
+    position: absolute;
+    top: 400px;
+    left: 10px;
+  }
+  
+  #s {
+    font-size: 100px;
+    color: black;
+    position: absolute;
+    top: 500px;
+    left: 90px;
+  }
+  
+  #u {
+    font-size: 100px;
+    color: grey;
+    position: absolute;
+    top: 600px;
+    left: 180px;
+  }
+  
